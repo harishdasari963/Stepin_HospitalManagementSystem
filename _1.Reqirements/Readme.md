@@ -21,7 +21,9 @@
     Here in our project user can able to login and should enter password then main menu will be display .The login password would be declared default.
     Now user can add new patient record,delete existing patient record, update existing records, view list existing records etc. Finally user can exit from system.
 ## SWOT ANALYSIS
-![SWOT-Sample](Link to Pic)
+![WhatsApp Image 2021-09-05 at 2 14 34 PM](https://user-images.githubusercontent.com/54410419/132120995-e969a840-9955-4c69-b724-8694993958f5.jpeg)
+![WhatsApp Image 2021-09-05 at 2 15 36 PM](https://user-images.githubusercontent.com/54410419/132120997-2b8f277c-4457-4cf1-bf19-757c614ee14f.jpeg)
+
 
 # 4W&#39;s and 1&#39;H
 
