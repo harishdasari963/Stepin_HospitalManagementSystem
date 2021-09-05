@@ -18,7 +18,7 @@
 8.Reduces the work of documentation
 
 ## Defining Our System
-    Here in our project user can able to login and should enter password then main menu will be display .The login password would be declared default.
+    Here in our project(Hospital management system) user can able to login and should enter password then main menu will be display .The login password would be declared default.
     Now user can add new patient record,delete existing patient record, update existing records, view list existing records etc. Finally user can exit from system.
 ## SWOT ANALYSIS
 **Strengths:**
@@ -55,7 +55,7 @@
 
 ## Who:
 
-**TBD**
+****
 
 ## What:
 
@@ -75,10 +75,16 @@
 
 # Detail requirements
 ## High Level Requirements:
---- TBD in Tabular Format 
 -- ID | Description | Status (Implemented/Future)
+|  <h3>ID  | <h3>Description | <h3>Status|
+|: --------||: --------------||: --------|
+|Patient Activities | It includes patient records, patient Information | Implemented|
+| Administrative Activities | It includes doctor Information, General Administration | Future
+|Payment  | it includes patients payment details,pay recipts  | Future|
 
 
 ##  Low level Requirements:
 --- TBD in Tabular Format 
 -- ID | Description | Status (Implemented/Future)
+
+
