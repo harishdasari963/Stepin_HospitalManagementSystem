@@ -75,16 +75,23 @@ Hospital Management System helps the professionals in healthcare to check out th
 # Detail requirements
 ## High Level Requirements:
 
-| **<h3> ID** | **<h3>Description**                                              |** <h3>Status    **  |    
+| **<h3> ID** | **<h3>Description**                                              | <h3>Status      |    
 |-------------|--------------------------------------------------------------|------------- |
- | Patient Activies|-It includes patient records,patient information  | Implemented    |
+ | Patient Activities|-It includes patient records,patient information  | Implemented    |
 | Adminstration     |It includes doctor informtion,general adminstration| Future    |
 |  Payment Details       |It includes patient payment details,pay recipts etc| future    |
 
 
 
 ##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+ 
+ 
+ 
+ | **<h3> ID** | **<h3>Description**                                              | <h3>Status      |    
+|-------------|--------------------------------------------------------------|------------- |
+ | security|It should secure because  only authorized user or receptionist can this system  | Implemented    |
+| platform     |The system can be work on any operating system like windows or linus| Implemented    |
+|  Performanace       |The system should handles the large amount patients data| future    |
+
 
 
