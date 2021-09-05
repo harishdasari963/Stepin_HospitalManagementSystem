@@ -75,11 +75,11 @@ Hospital Management System helps the professionals in healthcare to check out th
 # Detail requirements
 ## High Level Requirements:
 
-| **<h3> ID** | **<h3>Description**                                              |**Type Of Test**  |    
-|-------------|--------------------------------------------------------------|------------------|
-|  H_01       |--------------------------------------------------------------|  Requirement based |
-|  H_02       |--------------------------------------------------------------| Scenario based    |
-|  H_03       |--------------------------------------------------------------| Boundary based    |
+| **<h3> ID** | **<h3>Description**                                              |**Status    **  |    
+|-------------|--------------------------------------------------------------|------------- |
+ | Patient Activies|-It includes patient records,patient information  | Implemented    |
+| Adminstration     |It includes doctor informtion,general adminstration| Future    |
+|  Payment Details       |It includes patient payment details,pay recipts etc| future    |
 
 
 
