@@ -77,9 +77,13 @@
 ## High Level Requirements:
 -- ID | Description | Status (Implemented/Future)
 |  <h3>ID  | <h3>Description | <h3>Status|
+ 
 |: --------||: --------------||: --------|
+ 
 |Patient Activities | It includes patient records, patient Information | Implemented|
+ 
 | Administrative Activities | It includes doctor Information, General Administration | Future
+ 
 |Payment  | it includes patients payment details,pay recipts  | Future|
 
 
