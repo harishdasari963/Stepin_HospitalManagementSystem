@@ -55,37 +55,26 @@
 
 ## Who:
 
-****
+The implementation of hospital management system project provides the institution with different advantages that improve the service quality and efficiency. As mentioned above it is created a user can handle: patients details, recordsf and management, and third-parties like drug suppliers and insurance companies.
 
 ## What:
-
-**TBD**
+The hospital management system helps register complete patient information. It captures and stores the medical history, treatment required, details of their previous visits, upcoming appointments if any, reports, insurance details and more. It helps eliminate the need to get these details on every visit.
 
 ## When:
 
-**TBD**
+HMS information system helps to track and control finances, reduce leakages as well as reduce manual work and therefore there is no requirement of the higher human workforce.
+
 
 ## Where:
 
-**TBD**
+Hospital Management System helps the professionals in healthcare to check out the clinical documents, diagnosis, patient records, and other relevant things at a single view and therefore results in the healthcare professionals to make decisions at the right time
 
 ## How:
-
-**TBD**
+    The system creates an external file to store the data perminantly.This system is deployed using c programming.
 
 # Detail requirements
 ## High Level Requirements:
 
-
-|<h3>ID  |<h3>Description |<h3>Status|
- 
-|:-------|:---------------|:---------|
- 
-|Patient Activities | It includes patient records, patient Information | Implemented|
- 
-| Administrative Activities | It includes doctor Information, General Administration | Future
- 
-|Payment  | it includes patients payment details,pay recipts  | Future|
 
 
 ##  Low level Requirements:
