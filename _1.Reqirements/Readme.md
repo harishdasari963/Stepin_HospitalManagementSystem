@@ -77,9 +77,9 @@
 ## High Level Requirements:
 
 
----|  <h3>ID  |  <h3>Description | <h3>Status|
+|<h3>ID  |<h3>Description |<h3>Status|
  
-|: --------||: --------------||: --------|
+|:-------|:---------------|:---------|
  
 |Patient Activities | It includes patient records, patient Information | Implemented|
  
