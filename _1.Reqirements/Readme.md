@@ -3,10 +3,11 @@
  This project is the implementation for “ HOSPITAL MANAGEMENT SYSTEM” is a program developed for managing details regarding number of patients entering to the hospital. The program is very helpful to find the results of the inpatients and outpatients easily. we can search the doctors related to patients in hospital demo. The project and implementation is developed by using c.  There’s  login system available for this system, the receptionist login into the system and use resources.
 
 ## Research
-![Description](Link to Pic)
--- Content 
+[Doc.docx](https://github.com/harishdasari963/Stepin_HospitalManagementSystem/files/7111240/Doc.docx)
+
+ 
 ## Cost and Features and Timeline
-![Description](Link to Pic)
+
 1.Time-saving Technology
 2.Improved Efficiency by avoiding human errors
 3.Reduces scope for Error
