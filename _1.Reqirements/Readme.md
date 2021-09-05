@@ -1,15 +1,24 @@
 # Requirements
 ## Introduction
- --- TBD 
+ This project is the implementation for “ HOSPITAL MANAGEMENT SYSTEM” is a program developed for managing details regarding number of patients entering to the hospital. The program is very helpful to find the results of the inpatients and outpatients easily. we can search the doctors related to patients in hospital demo. The project and implementation is developed by using c.  There’s  login system available for this system, the receptionist login into the system and use resources.
 
 ## Research
 ![Description](Link to Pic)
 -- Content 
 ## Cost and Features and Timeline
 ![Description](Link to Pic)
--- Content 
+1.Time-saving Technology
+2.Improved Efficiency by avoiding human errors
+3.Reduces scope for Error
+4.Data security and correct data retrieval made possible
+5.Cost effective and easily manageable
+6.Easy access to patient data with correct patient history
+7.Improved patient care made possible
+8.Reduces the work of documentation
+
 ## Defining Our System
-    -- TBD
+    Here in our project user can able to login and should enter password then main menu will be display .The login password would be declared default.
+    Now user can add new patient record,delete existing patient record, update existing records, view list existing records etc. Finally user can exit from system.
 ## SWOT ANALYSIS
 ![SWOT-Sample](Link to Pic)
 
