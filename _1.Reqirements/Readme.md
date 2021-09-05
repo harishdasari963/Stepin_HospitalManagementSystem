@@ -75,7 +75,7 @@ Hospital Management System helps the professionals in healthcare to check out th
 # Detail requirements
 ## High Level Requirements:
 
-| **<h3> ID** | **<h3>Description**                                              |**Status    **  |    
+| **<h3> ID** | **<h3>Description**                                              |** <h3>Status    **  |    
 |-------------|--------------------------------------------------------------|------------- |
  | Patient Activies|-It includes patient records,patient information  | Implemented    |
 | Adminstration     |It includes doctor informtion,general adminstration| Future    |
