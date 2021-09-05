@@ -21,9 +21,27 @@
     Here in our project user can able to login and should enter password then main menu will be display .The login password would be declared default.
     Now user can add new patient record,delete existing patient record, update existing records, view list existing records etc. Finally user can exit from system.
 ## SWOT ANALYSIS
-![WhatsApp Image 2021-09-05 at 2 14 34 PM](https://user-images.githubusercontent.com/54410419/132120995-e969a840-9955-4c69-b724-8694993958f5.jpeg)
-![WhatsApp Image 2021-09-05 at 2 15 36 PM](https://user-images.githubusercontent.com/54410419/132120997-2b8f277c-4457-4cf1-bf19-757c614ee14f.jpeg)
-
+**Strengths:**
+•	A primary focus on quality improvement ($ saved from quality projects)
+•	Internal teams dedicated to research and analytics ($ spent on research)
+•	High-quality medical personnel (# of staff with external recognition)
+•	Modern medical equipment and a well-equipped facility (average age of medical equipment)
+**Weakness:**
+•	Outdated healthcare facilities and technology
+•	Insufficient management training
+•	Lack of funding and resources to support programs
+•	Poor location that’s not easily accessible for staff and patients
+•	High staff turnover
+**Opportunities:**
+•	Collaborate with different healthcare organizations to knowledge share
+•	Develop healthcare programs and initiatives to drive more community outreach and engagement
+•	Increase funding for analytics and researching, including both staff and technology
+•	Create mentor programs
+**Threats:**
+•	Economic or political insecurity
+•	Policy and legislation changes that result in budget deficits
+•	Pressure to reduce costs while meeting expectations of universal healthcare coverage
+•	Increased competition from newly built hospitals
 
 # 4W&#39;s and 1&#39;H
 
