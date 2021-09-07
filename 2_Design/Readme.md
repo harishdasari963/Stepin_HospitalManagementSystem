@@ -1,8 +1,7 @@
 # Design
 
 ## High Level Design 
-
---- Class Diagram( Structural)
+ Class Diagram( Structural)
 ![class diagram](https://user-images.githubusercontent.com/54410419/132119045-95eee289-bc6c-4abf-bbbe-9b8f99fa0705.jpg)
 
 ---Activity Diagram( Behavioural Diagram)
