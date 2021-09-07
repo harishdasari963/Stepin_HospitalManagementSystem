@@ -16,7 +16,12 @@ This project is the implementation for “ HOSPITAL MANAGEMENT SYSTEM”  is a p
   
   ## How to Build
   
-  ![make](https://github.com/GEN-AUG/SDLC_01_Falcon/blob/main/3_Implementation/build/hms.exe)
+  
+  ### To build and execute:
+```
+make all
+make run
+```
 
 
 
