@@ -78,7 +78,7 @@ Hospital Management System helps the professionals in healthcare to check out th
 ## How
     The system creates an external file to store the data perminantly.This system is deployed using c programming.
 
-# Detail requirements
+
 ## High Level Requirements:
 
 | **<h3> ID** | **<h3>Description**                                              | <h3>Status      |    
