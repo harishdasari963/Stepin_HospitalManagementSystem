@@ -60,23 +60,23 @@ About Hospital Management System C Project:
 
 # 4W&#39;s and 1&#39;H
 
-## Who:
+## Who
 
 The implementation of hospital management system project provides the institution with different advantages that improve the service quality and efficiency. As mentioned above it is created a user can handle: patients details, recordsf and management, and third-parties like drug suppliers and insurance companies.
 
-## What:
+## What
 The hospital management system helps register complete patient information. It captures and stores the medical history, treatment required, details of their previous visits, upcoming appointments if any, reports, insurance details and more. It helps eliminate the need to get these details on every visit.
 
-## When:
+## When
 
 HMS information system helps to track and control finances, reduce leakages as well as reduce manual work and therefore there is no requirement of the higher human workforce.
 
 
-## Where:
+## Where
 
 Hospital Management System helps the professionals in healthcare to check out the clinical documents, diagnosis, patient records, and other relevant things at a single view and therefore results in the healthcare professionals to make decisions at the right time
 
-## How:
+## How
     The system creates an external file to store the data perminantly.This system is deployed using c programming.
 
 # Detail requirements
