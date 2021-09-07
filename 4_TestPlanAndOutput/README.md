@@ -15,9 +15,11 @@
 
 ## Low Level Test Plan
 
+
 | Test ID | Description | Exp I/P | Exp O/P |	Actual Output | status |
 | --- | --- | --- | --- | --- | --- |
+| L_01 | Delete patient record not existed  | id | id not found | id not found | pass |
+| L_02 | Login into the system | Password | Denied | Denied | pass | 
+| L_03 | checking rooms availability| Room no | Room not available | Room not available | pass |
 
-| L_01 | Delete patient record not existed  | id | id not found | id not  | pass |
-| L_02 | Login into the system | Password | Denied | Denied | pass |
-| L_03 | checking rooms availability | Room no| Room not available | Room not available | pass |
+
