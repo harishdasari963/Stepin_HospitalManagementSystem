@@ -11,4 +11,10 @@ This project is the implementation for “ HOSPITAL MANAGEMENT SYSTEM”  is a p
   
   
   [![Codacy Badge](https://app.codacy.com/project/badge/Grade/833a52c94fed4cbe95a72fa6ed836c6a)](https://www.codacy.com/gh/harishdasari963/Stepin_HospitalManagementSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=harishdasari963/Stepin_HospitalManagementSystem&amp;utm_campaign=Badge_Grade)
+  
+  
+  
+  ## How to Build
+
+![make](https://github.com/GEN-AUG/SDLC_01_Falcon/blob/main/3_Implementation/make.gif)
 
