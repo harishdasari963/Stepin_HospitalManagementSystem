@@ -11,7 +11,6 @@ About Hospital Management System C Project:
 ---List record of patients.
 ---Delete patient records'
 ---Exit from the system
-
  
 ## Cost and Features and Timeline
 
@@ -58,7 +57,7 @@ About Hospital Management System C Project:
 •	Increased competition from newly built hospitals
 
 
-# 4W&#39;s and 1&#39;H
+
 
 ## Who
 
