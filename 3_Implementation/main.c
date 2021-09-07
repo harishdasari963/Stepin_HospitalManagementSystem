@@ -28,7 +28,8 @@ void login() //for password option
 
 	system("cls");
 	char d[25]="    LOGGING IN   ";
-char ch,pass[10];
+char ch;
+char pass[10];
 int a=0,p;
 printf(" \n\n");
 for(p=0;p<5;p++)
