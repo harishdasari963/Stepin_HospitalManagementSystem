@@ -14,7 +14,9 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: make
-      run: make
+      run: make -C 3_Implementation/ all
+    - name: clean
+      run: make -C 3_Implementation/ clean
     - name: make check
       run: make check
     - name: make distcheck
