@@ -56,28 +56,20 @@ About Hospital Management System C Project:
 •	Pressure to reduce costs while meeting expectations of universal healthcare coverage
 •	Increased competition from newly built hospitals
 
-
-
-
 ## Who
-
 The implementation of hospital management system project provides the institution with different advantages that improve the service quality and efficiency. As mentioned above it is created a user can handle: patients details, recordsf and management, and third-parties like drug suppliers and insurance companies.
 
 ## What
 The hospital management system helps register complete patient information. It captures and stores the medical history, treatment required, details of their previous visits, upcoming appointments if any, reports, insurance details and more. It helps eliminate the need to get these details on every visit.
 
 ## When
-
 HMS information system helps to track and control finances, reduce leakages as well as reduce manual work and therefore there is no requirement of the higher human workforce.
 
-
 ## Where
-
 Hospital Management System helps the professionals in healthcare to check out the clinical documents, diagnosis, patient records, and other relevant things at a single view and therefore results in the healthcare professionals to make decisions at the right time
 
 ## How
     The system creates an external file to store the data perminantly.This system is deployed using c programming.
-
 
 ## High Level Requirements:
 
@@ -87,17 +79,10 @@ Hospital Management System helps the professionals in healthcare to check out th
 | Adminstration     |It includes room informtion,general adminstration| Implemented    |
 |  Payment Details       |It includes patient payment details,pay recipts etc| future    |
 
-
-
 ##  Low level Requirements:
- 
- 
  
  | **<h3> ID** | **<h3>Description**                                              | <h3>Status      |    
 |-------------|--------------------------------------------------------------|------------- |
  | security|It should secure because  only authorized user or receptionist can this system  | Implemented    |
 | platform     |The system can be work on any operating system like windows or linus| Implemented    |
 |  Performanace       |The system should handles the large amount patients data| Implemented    |
-
-
-
