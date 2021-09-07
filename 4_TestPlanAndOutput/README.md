@@ -16,6 +16,7 @@
 ## Low Level Test Plan
 
 
+
 | Test ID | Description | Exp I/P | Exp O/P |	Actual Output | status |
 | --- | --- | --- | --- | --- | --- |
 | L_01 | Delete patient record not existed  | id | id not found | id not found | pass |
