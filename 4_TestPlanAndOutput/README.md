@@ -24,3 +24,8 @@
 | L_03 | checking rooms availability| Room no | Room not available | Room not available | pass |
 
 
+
+## Exit test case output
+
+![test_exit](https://user-images.githubusercontent.com/54410419/132303815-991d0b57-89f6-4bfa-b2ef-348edeb25366.PNG)
+
