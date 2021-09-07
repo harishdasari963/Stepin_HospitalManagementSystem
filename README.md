@@ -5,8 +5,8 @@ This project is the implementation for “ HOSPITAL MANAGEMENT SYSTEM”  is a p
 # GIT INSPECTOR 
 ![gitinspector](https://www.code-inspector.com/project/27773/score/svg)
 
+![gitinspector](https://www.code-inspector.com/project/27773/status/svg
 
-  [Grade](https://www.code-inspector.com/project/27773/status/svg)
   
   
   
