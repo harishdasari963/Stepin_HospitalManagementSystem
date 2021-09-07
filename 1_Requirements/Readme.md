@@ -28,14 +28,14 @@ About Hospital Management System C Project:
     Here in our project(Hospital management system) user can able to login and should enter password then main menu will be display .The login password would be declared default.
     Now user can add new patient record,delete existing patient record, update existing records, view list existing records etc. Finally user can exit from system.
 ## SWOT ANALYSIS
-**Strengths:**
+<h3>Strengths
 
 •	A primary focus on quality improvement ($ saved from quality projects)
 •	Internal teams dedicated to research and analytics ($ spent on research)
 •	High-quality medical personnel (# of staff with external recognition)
 •	Modern medical equipment and a well-equipped facility (average age of medical equipment)
 
-**Weakness:**
+<h3>Weakness
 
 •	Outdated healthcare facilities and technology
 •	Insufficient management training
@@ -43,14 +43,14 @@ About Hospital Management System C Project:
 •	Poor location that’s not easily accessible for staff and patients
 •	High staff turnover
 
-**Opportunities:**
+<h3>Opportunities:
 
 •	Collaborate with different healthcare organizations to knowledge share
 •	Develop healthcare programs and initiatives to drive more community outreach and engagement
 •	Increase funding for analytics and researching, including both staff and technology
 •	Create mentor programs
 
-**Threats:**
+<h3>Threats:
 
 •	Economic or political insecurity
 •	Policy and legislation changes that result in budget deficits
