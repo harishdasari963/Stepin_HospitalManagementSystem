@@ -1,8 +1,4 @@
 #include<stdio.h>                   //contains printf,scanfetc
-#include<conio.h>                   //contains delay(),getch(),gotoxy(),etc.
-#include<string.h>                  //contains strcmp(),strcpy(),strlen(),etc
-#include <windows.h>
-#include <ctype.h>
 #include "functions.h"
 char password[20]={"harish"};  //for changing the password just change "home" to any new word to set as password..
 
