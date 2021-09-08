@@ -72,14 +72,12 @@ Hospital Management System helps the professionals in healthcare to check out th
     The system creates an external file to store the data perminantly.This system is deployed using c programming.
 
 ## High Level Requirements
-
 | **<h3> ID** | **<h3>Description**                                              | <h3>Status      |    
 |-------------|--------------------------------------------------------------|------------- |
  | Patient Activities|-It includes patient records,patient information  | Implemented    |
 | Adminstration     |It includes room informtion,general adminstration| Implemented    |
 |  Payment Details       |It includes patient payment details,pay recipts etc| future    |
 ##  Low level Requirements
- 
  | **<h3> ID** | **<h3>Description**                                              | <h3>Status      |    
 |-------------|--------------------------------------------------------------|------------- |
  | security|It should secure because  only authorized user or receptionist can this system  | Implemented    |
