@@ -16,6 +16,13 @@ This project is the implementation for “ HOSPITAL MANAGEMENT SYSTEM”  is a p
   
   
   [![Codacy Badge](https://app.codacy.com/project/badge/Grade/833a52c94fed4cbe95a72fa6ed836c6a)](https://www.codacy.com/gh/harishdasari963/Stepin_HospitalManagementSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=harishdasari963/Stepin_HospitalManagementSystem&amp;utm_campaign=Badge_Grade)
+  ## Folder Structure
+|Folder             | Description |
+|-------------------| -----------------------------------------|
+| `1_Requirements`   | Documents detailing requirements and research|
+| `2_Design`         | Documents specifying design details|
+| `3_Implementation` | All code and documentation|
+| `4_Test_plan`      | Documents with test plans and procedures|
   
   
   
