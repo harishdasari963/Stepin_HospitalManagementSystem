@@ -18,9 +18,7 @@ This project is the implementation for “ HOSPITAL MANAGEMENT SYSTEM”  is a p
 
 # BADGES 
 
-|Build    |Static Code Analysis |Dynamic Code Analysis|Code Quality     |Unity   |Git Inspector|
-|:--------|:--------|:--------|:----------------|:--------|:-----------|
-| [![Code Quality - Cppcheck](https://github.com/harishdasari963/Stepin_HospitalManagementSystem/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/harishdasari963/Stepin_HospitalManagementSystem/actions/workflows/cppcheck.yml)|
+[![Code Quality - Cppcheck](https://github.com/harishdasari963/Stepin_HospitalManagementSystem/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/harishdasari963/Stepin_HospitalManagementSystem/actions/workflows/cppcheck.yml)
  
   ## Folder Structure
 |Folder             | Description |
