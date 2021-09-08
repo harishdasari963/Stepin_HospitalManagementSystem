@@ -2,10 +2,9 @@
 #define FUNCTIONS_H_
 
 #include<stdio.h>                   //contains printf,scanfetc
-//#include<conio.h>                   //contains delay(),getch(),gotoxy(),etc.
-#include<curses.h>
+#include<conio.h>                   //contains delay(),getch(),gotoxy(),etc.
 #include<string.h>                  //contains strcmp(),strcpy(),strlen(),etc
-//#include <windows.h>
+#include <windows.h>
 #include<time.h>
 #include <ctype.h>
 //list of function prototype
