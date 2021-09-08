@@ -15,7 +15,8 @@ This project is the implementation for “ HOSPITAL MANAGEMENT SYSTEM”  is a p
   # GIT CODACY
   
   
-  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/833a52c94fed4cbe95a72fa6ed836c6a)](https://www.codacy.com/gh/harishdasari963/Stepin_HospitalManagementSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=harishdasari963/Stepin_HospitalManagementSystem&amp;utm_campaign=Badge_Grade)
+  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/833a52c94fed4cbe95a72fa6ed836c6a)](https://www.codacy.com/gh/harishdasari963/Stepin_HospitalManagementSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=harishdasari963/Stepin_HospitalManagementSystem&amp;utm_campaign=Badge_Grade) 
+  [![Code Quality - Cppcheck](https://github.com/harishdasari963/Stepin_HospitalManagementSystem/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/harishdasari963/Stepin_HospitalManagementSystem/actions/workflows/cppcheck.yml)
   ## Folder Structure
 |Folder             | Description |
 |-------------------| -----------------------------------------|
