@@ -2,7 +2,7 @@
 #define FUNCTIONS_H_
 
 #include<stdio.h>                   //contains printf,scanfetc
-#include<conio.h>                   //contains delay(),getch(),gotoxy(),etc.
+//#include<conio.h>                   //contains delay(),getch(),gotoxy(),etc.
 #include<string.h>                  //contains strcmp(),strcpy(),strlen(),etc
 #include <windows.h>
 #include<time.h>
